@@ -1,2 +1,3 @@
 # hello_swift
-some demo
+SliderView.swift
+![SliderView](/img/SliderView.png)
